@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Den\Flappy Bird\.utmp\Debug\2t17552z\arm64-v8a'
+ninja: no work to do.

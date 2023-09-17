@@ -1,0 +1,239 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.com.unity.template.mobile2D"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0.2" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-54
+21-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-51
+22    <uses-feature
+22-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-55
+24        android:required="false" />
+24-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-33
+25    <uses-feature
+25-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-18:36
+26        android:name="android.hardware.touchscreen"
+26-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-52
+27        android:required="false" />
+27-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-33
+28    <uses-feature
+28-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-21:36
+29        android:name="android.hardware.touchscreen.multitouch"
+29-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-63
+30        android:required="false" />
+30-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-33
+31    <uses-feature
+31-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:5-24:36
+32        android:name="android.hardware.touchscreen.multitouch.distinct"
+32-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-72
+33        android:required="false" />
+33-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-33
+34
+35    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+35-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:5-77
+35-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:22-74
+36
+37    <permission
+37-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+38        android:name="com.DefaultCompany.com.unity.template.mobile2D.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+38-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+39        android:protectionLevel="signature" />
+39-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+40
+41    <uses-permission android:name="com.DefaultCompany.com.unity.template.mobile2D.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+41-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+42
+43    <application
+43-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+44        android:appCategory="game"
+44-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.9.0] C:\Users\Den\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+46        android:debuggable="true"
+47        android:extractNativeLibs="true"
+47-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-41
+48        android:icon="@mipmap/app_icon"
+48-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+49        android:label="@string/app_name" >
+49-->C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+50        <meta-data
+50-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-33:33
+51            android:name="unity.splash-mode"
+51-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-45
+52            android:value="0" />
+52-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-30
+53        <meta-data
+53-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
+54            android:name="unity.splash-enable"
+54-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-47
+55            android:value="True" />
+55-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
+56        <meta-data
+56-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:36
+57            android:name="unity.launch-fullscreen"
+57-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-51
+58            android:value="True" />
+58-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-33
+59        <meta-data
+59-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:37
+60            android:name="unity.allow-resizable-window"
+60-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-56
+61            android:value="False" />
+61-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-34
+62        <meta-data
+62-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:50
+63            android:name="notch.config"
+63-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-40
+64            android:value="portrait|landscape" />
+64-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-47
+65        <meta-data
+65-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:36
+66            android:name="unity.auto-report-fully-drawn"
+66-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-57
+67            android:value="true" />
+67-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-33
+68        <meta-data
+68-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:36
+69            android:name="unity.strip-engine-code"
+69-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-51
+70            android:value="true" />
+70-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-33
+71        <meta-data
+71-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:56
+72            android:name="android.game_mode_config"
+72-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-52
+73            android:resource="@xml/game_mode_config" />
+73-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-53
+74
+75        <activity
+75-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-81:20
+76            android:name="com.unity3d.player.UnityPlayerGameActivity"
+76-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-70
+77            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+77-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-194
+78            android:enabled="true"
+78-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-35
+79            android:exported="true"
+79-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:13-36
+80            android:hardwareAccelerated="false"
+80-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-48
+81            android:launchMode="singleTask"
+81-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-44
+82            android:resizeableActivity="false"
+82-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-47
+83            android:screenOrientation="fullUser"
+83-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-49
+84            android:theme="@style/BaseUnityGameActivityTheme" >
+84-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-62
+85            <intent-filter>
+85-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-70:29
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:17-77
+86-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:27-74
+87
+88                <action android:name="android.intent.action.MAIN" />
+88-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:17-69
+88-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:25-66
+89            </intent-filter>
+90
+91            <meta-data
+91-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:13-74:40
+92                android:name="unityplayer.UnityActivity"
+92-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:17-57
+93                android:value="true" />
+93-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:74:17-37
+94            <meta-data
+94-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:13-77:40
+95                android:name="android.app.lib_name"
+95-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:17-52
+96                android:value="game" />
+96-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:77:17-37
+97            <meta-data
+97-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-80:40
+98                android:name="notch_support"
+98-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:17-45
+99                android:value="true" />
+99-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:17-37
+100        </activity>
+101
+102        <receiver
+102-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:9-85:40
+103            android:name="com.unity.androidnotifications.UnityNotificationManager"
+103-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-83
+104            android:exported="false" />
+104-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:13-37
+105        <receiver
+105-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:86:9-93:20
+106            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
+106-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:87:13-97
+107            android:enabled="false"
+107-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:88:13-36
+108            android:exported="false" >
+108-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:89:13-37
+109            <intent-filter>
+109-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:90:13-92:29
+110                <action android:name="android.intent.action.BOOT_COMPLETED" />
+110-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:91:17-79
+110-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:91:25-76
+111            </intent-filter>
+112        </receiver>
+113
+114        <meta-data
+114-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:95:9-97:33
+115            android:name="com.unity.androidnotifications.exact_scheduling"
+115-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:96:13-75
+116            android:value="0" />
+116-->[:unityLibrary] C:\Users\Den\Flappy Bird\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:97:13-30
+117
+118        <provider
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+119            android:name="androidx.startup.InitializationProvider"
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+120            android:authorities="com.DefaultCompany.com.unity.template.mobile2D.androidx-startup"
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+121            android:exported="false" >
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+122            <meta-data
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+123                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+124                android:value="androidx.startup" />
+124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Den\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+125            <meta-data
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Den\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+126                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+126-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Den\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+127                android:value="androidx.startup" />
+127-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Den\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+128        </provider>
+129    </application>
+130
+131</manifest>

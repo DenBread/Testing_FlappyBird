@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-ldpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-ldpi/app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Den\\.gradle\\daemon\\7.6\\com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.com.unity.template.mobile2D.launcher-merged_res-22:/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "com.DefaultCompany.com.unity.template.mobile2D.launcher-main-24:/mipmap-xxhdpi/app_icon_round.png"
+    }
+]
